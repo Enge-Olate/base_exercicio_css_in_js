@@ -33,13 +33,6 @@ export const HeroTitle = styled.h2`
   z-index: 2;
 
   @media (max-width: 768px) {
-    .form {
-      height: auto;
-      padding: 24px 0;
-    }
-
-    .heroTitle {
-      font-size: 32px;
-    }
+    font-size: 24px;
   }
 `
